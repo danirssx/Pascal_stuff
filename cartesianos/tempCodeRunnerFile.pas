@@ -1,0 +1,1 @@
+riteln('El par es: ', ParesFuncion);

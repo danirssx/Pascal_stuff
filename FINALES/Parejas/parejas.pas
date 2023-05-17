@@ -4,7 +4,6 @@ Program pareja;
 Uses crt;
 
 
-
 // Desarrolla un programa que muestre todas las parejas o combinaciones posibles de caracteres pro palabra en un texto que introduce el usuario. Se asumira que cada palabra se distinguede otrap orque estan separadas por uno o mas espacios en blacno
 
 // Entrada: hola, que hay
